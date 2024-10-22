@@ -1,0 +1,3 @@
+- [ ] Learning Resource 1: [Roadmap](https://roadmap.sh/datastructures-and-algorithms)
+- [ ] Practice Resource 1: [Codeforces](https://codeforces.com/problemset)
+- [ ] Practice Resource 2: [LeetCode](https://leetcode.com/problemset/)
